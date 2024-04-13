@@ -10,7 +10,7 @@
 %    layer - Matlab Deep Learning Toolbox layer object
 %
 % i.kuprov@soton.ac.uk
-% jake.keeley@soton.ac.uk
+% jkeeley@mathworks.com
 %
 % <https://spindynamics.org/wiki/index.php?title=renormLayer.m>
 

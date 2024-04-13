@@ -22,7 +22,7 @@
 %             grid, Angstrom 
 %
 % i.kuprov@soton.ac.uk
-% j.keeley@soton.ac.uk
+% jkeeley@mathworks.com
 %
 % <https://spindynamics.org/wiki/index.php?title=dist_range.m>
 

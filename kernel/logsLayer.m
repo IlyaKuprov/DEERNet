@@ -6,7 +6,7 @@
 %
 %    layer - Matlab Deep Learning Toolbox layer object
 %
-% jake.keeley@soton.ac.uk
+% jkeeley@mathworks.com
 % i.kuprov@soton.ac.uk
 %
 % <https://spindynamics.org/wiki/index.php?title=logsLayer.m>

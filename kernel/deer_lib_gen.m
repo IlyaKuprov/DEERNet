@@ -92,7 +92,7 @@
 %
 % Note: a strong NVidia GPU is required - at least a Titan V.
 %
-% jake.keeley@soton.ac.uk
+% jkeeley@mathworks.com
 % tajwar.choudhury@soton.ac.uk
 % s.g.worswick@soton.ac.uk
 % gunnar.jeschke@phys.chem.ethz.ch

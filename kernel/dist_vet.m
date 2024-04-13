@@ -17,7 +17,7 @@
 %     layers  - an untrained network layout 
 %
 % i.kuprov@soton.ac.uk
-% jake.keeley@soton.ac.uk
+% jkeeley@mathworks.com
 %
 % <https://spindynamics.org/wiki/index.php?title=dist_vet.m>
 

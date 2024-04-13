@@ -14,7 +14,7 @@
 %     layers  - an untrained network layout 
 %
 % i.kuprov@soton.ac.uk
-% jake.keeley@soton.ac.uk
+% jkeeley@mathworks.com
 % tajwar.choudhury@soton.ac.uk
 %
 % <https://spindynamics.org/wiki/index.php?title=dist_net.m>

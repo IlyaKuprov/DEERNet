@@ -117,7 +117,7 @@
 %          512-point time grid, 128 points sampled
 %          512-point time grid, 64  points sampled
 %
-% jake.keeley@soton.ac.uk
+% jkeeley@mathworks.com
 % tajwar.choudhury@soton.ac.uk
 % s.g.worswick@soton.ac.uk
 % gunnar.jeschke@phys.chem.ethz.ch

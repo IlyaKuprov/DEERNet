@@ -28,7 +28,7 @@
 %              batch, a matrix with individual DEER
 %              traces in columns
 %
-% j.keeley@soton.ac.uk
+% jkeeley@mathworks.com
 % i.kuprov@soton.ac.uk
 %
 % <https://spindynamics.org/wiki/index.php?title=signal_model.m>

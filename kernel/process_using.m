@@ -21,7 +21,7 @@
 %                   umns. The number of rows matches the 
 %                   output size of the neural network.
 %
-% jake.keeley@soton.ac.uk
+% jkeeley@mathworks.com
 % i.kuprov@soton.ac.uk
 % s.g.worswick@soton.ac.uk
 %

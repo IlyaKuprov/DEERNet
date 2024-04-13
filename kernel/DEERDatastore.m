@@ -13,7 +13,7 @@
 %    dstore     - MATLAB datastore object expected by the
 %                 neural network training function
 %
-% jake.keeley@soton.ac.uk
+% jkeeley@mathworks.com
 % 
 % <https://spindynamics.org/wiki/index.php?title=DEERDatastore.m>
 

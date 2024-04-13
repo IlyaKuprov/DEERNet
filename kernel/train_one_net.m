@@ -26,7 +26,7 @@
 % Note: if the file pre-exists, the network will be loaded and
 %       used as the initial guess.
 %
-% jake.keeley@soton.ac.uk
+% jkeeley@mathworks.com
 % tajwar.choudhury@soton.ac.uk
 % s.g.worswick@soton.ac.uk
 % i.kuprov@soton.ac.uk
