@@ -129,7 +129,7 @@ else
     D=zeros(size(dist_grid),'single');
     FrC=zeros(numel(time_grid),numel(dist_grid),'single');
     FrS=zeros(numel(time_grid),numel(dist_grid),'single');
-    parfor n=1:numel(dist_grid)
+    for n=1:numel(dist_grid)
         D(n)=xyz2dd([0 0 0],[0 0 dist_grid(n)],'E','E');
         FrC(:,n)=fresnelc(sqrt(6*D(n)*time_grid/pi))';
         FrS(:,n)=fresnels(sqrt(6*D(n)*time_grid/pi))';
